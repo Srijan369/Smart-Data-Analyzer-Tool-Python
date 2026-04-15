@@ -80,7 +80,7 @@ Smart-Data-Analyzer/
 ├── cleaner.py       # Data cleaning module
 ├── utils.py         # Helper functions & charts
 ├── requirements.txt
-└── README.md
+README.md
 ```
 
 ---
