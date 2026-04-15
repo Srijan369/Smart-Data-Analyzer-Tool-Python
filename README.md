@@ -90,7 +90,7 @@ README.md
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/your-username/smart-data-analyzer.git
+git clone https://github.com/Srijan369/Smart-Data-Analyzer-Tool-Python.git
 cd smart-data-analyzer
 ```
 
