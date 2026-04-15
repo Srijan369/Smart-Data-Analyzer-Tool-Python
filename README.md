@@ -145,7 +145,7 @@ This tool helps:
 
 ## 👨‍💻 Author
 
-**Srijan Yadav**
+**Srijan Yadav *Aspiring Data Analyst***
 
 ---
 
